@@ -37,6 +37,11 @@
             android:label="Result"
             android:name=".ResultActivity" >
         </activity>
+        
+        <activity
+            android:label="LocationList"
+            android:name=".LocationListActivity" >
+        </activity>
     </application>
 
 </manifest>

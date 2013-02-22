@@ -33,7 +33,16 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/button_find_me" />
+        
+        <Button
+        android:id="@+id/location_list_button"
+        android:layout_weight="0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List Locations" />
 
     </LinearLayout>
+
+    
 
 </LinearLayout>
